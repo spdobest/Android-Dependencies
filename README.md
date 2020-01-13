@@ -1,4 +1,6 @@
 # Android-Dependencies
+  
+https://github.com/gokhanaliccii/TrendyGifs/blob/develop/app/build.gradle  
 
 Add below line in project level gradle file  
   
